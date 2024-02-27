@@ -1,11 +1,15 @@
 ## OOP Project
 ## application title
+
 ## author: 
   * id: ---
   * name: first last
-## technology: [pygame/streamlit]
+## technology:
+[pygame/streamlit]
 ## application description:
 
-## presentation: [slide/canva/etc..] link [public/ubu]
-## video: link [public/ubu]
+## presentation:
+[slide/canva/etc..] link [public/ubu]
+## video: link 
+[public/ubu]
  xoxoxo
