@@ -1,0 +1,12 @@
+1.เริ่มและเปิดการใช้งาน
+https://wichit2s.github.io/courses/oop/oop-in-pygame/overview.html#id1
+
+ 1.ตรวจสอบ python ที่ใช้งานได้
+    python --version
+    python3 --version
+
+ 2.เปิดใช้งานสภาพแวดล้อม pygameenv
+    .\pygameenv\Scripts\activate
+
+ 3.ติดตั้ง pygame
+    pip install pygame
