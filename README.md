@@ -2,8 +2,8 @@
 ## application title
 
 ## author: 
-  * id: ---
-  * name: first last
+  * id: 66114540829
+  * name: อนุพล กุลสุทธิ์
 ## technology:
 [pygame/streamlit]
 ## application description:
