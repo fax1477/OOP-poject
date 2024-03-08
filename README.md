@@ -3,7 +3,7 @@
 
 สำหรับวิฃา .[OOP](https://wichit2s.github.io)
 
-เว็บไซต์ .[Plane Of Bullet]([https://github.com/fax1477/OOP-poject])
+เว็บไซต์ .[Plane Of Bullet]([[https://github.com/fax1477/OOP-poject]](https://github.com/fax1477/OOP-poject.git))
 
 # application title: **Plane Of Bullet**
 ![bannner](Plane_Of_bullet.png)
