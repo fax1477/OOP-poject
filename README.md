@@ -1,5 +1,5 @@
 # Project Plane Of Bullet
-![bannner](Plane Of bullet.png)
+![bannner](Plane_Of_bullet.png)
 
 สำหรับวิฃา .[OOP](https://wichit2s.github.io)
 
