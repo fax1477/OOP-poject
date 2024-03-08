@@ -8,7 +8,7 @@
 # application title: **Plane Of Bullet**
 ![bannner](Plane Of bullet.png)
 
-![bannner]([In game 1.png])
+![bannner](In game 1.png)
 
 ![bannner](In game 2.png)
 # author: 
