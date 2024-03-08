@@ -10,7 +10,7 @@
 
 ![bannner](Ingame1.png)
 
-![bannner](In game 2.png)
+![bannner](Ingame2.png)
 # author: 
 
   * id: 66114540829
@@ -29,5 +29,5 @@
   
 - กดรันได้เลย
   
-* presentation: .[Plane Of Bullet](Slide)
+* presentation: .[Plane_Of_Bullet](Slide)
 * video: link .[Present](video + slide)
