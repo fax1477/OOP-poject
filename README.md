@@ -1,15 +1,33 @@
-## OOP Project
-## application title
+# Project Plane Of Bullet
+![bannner](Plane Of bullet.png)
 
-## author: 
+สำหรับวิฃา .[OOP](https://wichit2s.github.io)
+
+เว็บไซต์ .[Plane Of Bullet]([https://github.com/fax1477/OOP-poject])
+
+# application title: **Plane Of Bullet**
+![bannner](Plane Of bullet.png)
+
+![bannner](In game 1.png)
+
+![bannner](In game 2.png)
+# author: 
+
   * id: 66114540829
-  * name: อนุพล กุลสุทธิ์
-## technology:
-[pygame/streamlit]
-## application description:
+  * name: นายอนุพล กุลสุทธิ์
 
-## presentation:
-[slide/canva/etc..] link [public/ubu]
-## video: link 
-[public/ubu]
- xoxoxo
+# technology: [ pygame ]
+![bannner](PYGAME_LOGO.png)
+
+# application description:
+ปกติส่วนใหญ่เป็นเกมที่ต้องวิ่งวิ่งหนีหรือหลบกระสุนใช่มั้ยหล่ะครับแต่เกมของเราไม่ใช่แบบนั้นเกมของเราเป็นเกมที่ต้องวิ่งเข้าหากระสุนที่พุ้งเข้ามาครับ
+## วิธีการใช้งาน โปรแกม
+
+- ซิงค์ตัวโปรเจกเข้ากับ ตัวรันโปรแกรม
+  
+- pip install pygame
+  
+- กดรันได้เลย
+  
+* presentation: .[Plane Of Bullet](Slide)
+* video: link .[Present](video + slide)
