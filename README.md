@@ -6,7 +6,7 @@
 เว็บไซต์ .[Plane Of Bullet]([https://github.com/fax1477/OOP-poject])
 
 # application title: **Plane Of Bullet**
-![bannner](Plane Of bullet.png)
+![bannner](Plane_Of_bullet.png)
 
 ![bannner](Ingame1.png)
 
@@ -29,5 +29,5 @@
   
 - กดรันได้เลย
   
-* presentation: .[Plane_Of_Bullet](Slide)
+* presentation: .[Plane Of Bullet](Slide)
 * video: link .[Present](video + slide)
