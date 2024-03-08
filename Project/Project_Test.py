@@ -4,7 +4,7 @@ import random
 #ประกาศใฃ้งาน pygame
 pygame.init()
 #หัวข้อเกม
-pygame.display.set_caption('OOP_Project')
+pygame.display.set_caption('Plane Of bullet')
 
 WIDTH = 1500
 HIGHT = 900
