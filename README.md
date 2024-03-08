@@ -8,7 +8,7 @@
 # application title: **Plane Of Bullet**
 ![bannner](Plane Of bullet.png)
 
-![bannner]([In game 1.png](https://github.com/fax1477/OOP-poject/blob/main/In%20game%201.png))
+![bannner]([In game 1.png])
 
 ![bannner](In game 2.png)
 # author: 
