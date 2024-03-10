@@ -29,5 +29,5 @@
   
 - กดรันได้เลย
   
-* presentation: .[Plane Of Bullet](Slide)
+* presentation: .[Plane Of Bullet](https://www.canva.com/design/DAF-7iEyQCg/Sq-DPecOGWKWQVoVfpNg4Q/edit?utm_content=DAF-7iEyQCg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * video: link .[Present](video + slide)
